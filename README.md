@@ -2,7 +2,7 @@
 ## University of Strathclyde, UK
 ### Faculty of Science
 #### Computer and Information Sciences Department
-##### Alexandros Ioannidis
+### Alexandros Ioannidis
 
 ###### Implementation of the augmented RFMTC and RFM marketing predictive model using the programming language R in the RStudio IDE. Used multiple datasets (e.g. Blood Transfusion Dataset, CDNOW dataset, longstanding telecom customer data set). 
 
