@@ -14,11 +14,11 @@
 
 ##### For the execution of the programs the following are required
 #####  - R installed in the OS \
-         👍 𝑹 𝒍𝒂𝒏𝒈𝒖𝒂𝒈𝒆 https://www.r-project.org/about.html \
+         👍 𝑹 𝒍𝒂𝒏𝒈𝒖𝒂𝒈𝒆 https://www.r-project.org/about.html 
 #####  - RStudio installed \ 
-         👍 🆁🆂🆃🆄🅳🅸🅾 https://rstudio.com/ \
+         👍 🆁🆂🆃🆄🅳🅸🅾 https://rstudio.com/ 
 #####  - Install and add all the CRAN packagies used in the scripts \
-        👍 ℂℝ𝔸ℕ: https://cran.r-project.org/web/packages/  \
+        👍 ℂℝ𝔸ℕ: https://cran.r-project.org/web/packages/  
 
 For more relevant information please visit the following web pages: \
 🔳 https://en.wikipedia.org/wiki/RFM_(market_research) \
