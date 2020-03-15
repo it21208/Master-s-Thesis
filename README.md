@@ -1,5 +1,5 @@
 # Master-s-Thesis
-## 2017, University of Strathclyde, UK
+## 2017, University of Strathclyde (UK)
 ### Faculty of Science
 #### Computer and Information Sciences Department
 ### Alexandros Ioannidis
