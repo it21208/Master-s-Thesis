@@ -13,9 +13,12 @@
 ###### The purpose of the research was to assert the generality of the RFMTC model as an improved more customizable alternative of the RFM and other ML algorithms such as (SVM, Random Forest, K-Means, etc.) and justify the additional implementation complexity of some model parameters (e.g. Time since first purchase or donation of a customer in a certain period and churn rate) as a productive one.
 
 ##### For the execution of the programs the following are required
-#####  - R installed in the OS 
-#####  - RStudio installed
-#####  - install and add all the CRAN packagies used in the scripts 
+#####  - R installed in the OS \
+         👍 𝑹 𝒍𝒂𝒏𝒈𝒖𝒂𝒈𝒆 https://www.r-project.org/about.html \
+#####  - RStudio installed \ 
+         👍 🆁🆂🆃🆄🅳🅸🅾 https://rstudio.com/ \
+#####  - Install and add all the CRAN packagies used in the scripts \
+        👍 ℂℝ𝔸ℕ: https://cran.r-project.org/web/packages/  \
 
 For more relevant information please visit the following web pages: \
 🔳 https://en.wikipedia.org/wiki/RFM_(market_research) \
