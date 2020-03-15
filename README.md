@@ -17,7 +17,7 @@
 #####  - RStudio installed
 #####  - install and add all the CRAN packagies used in the scripts 
 
-For more relevant information please visit the following web pages:
+For more relevant information please visit the following web pages: \
 🔳 https://en.wikipedia.org/wiki/RFM_(market_research) \
 🔳 http://www.brucehardie.com/datasets/ \
 🔳 https://archive.ics.uci.edu/ml/datasets/Blood+Transfusion+Service+Center \
