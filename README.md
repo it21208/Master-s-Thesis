@@ -12,6 +12,10 @@
 
 ###### The purpose of the research was to assert the generality of the RFMTC model as an improved more customizable alternative of the RFM and other ML algorithms such as (SVM, Random Forest, K-Means, etc.) and justify the additional implementation complexity of some model parameters (e.g. Time since first purchase or donation of a customer in a certain period and churn rate) as a productive one.
 
+<p align="center">
+<img src="https://github.com/it21208/RFMTC-Implementation-Using-the-CDNOW-dataset/blob/master/rfmtc_logo.png" width="360">
+</p>
+
 ##### For the execution of the programs the following are required
 #####  - R installed in the OS \
          👍 𝑹 𝒍𝒂𝒏𝒈𝒖𝒂𝒈𝒆 https://www.r-project.org/about.html 
